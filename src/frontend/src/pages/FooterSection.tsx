@@ -117,14 +117,13 @@ export default function FooterSection() {
             © {year}. Bloody Unicorns. All rights reserved.
           </p>
           <p className="font-body text-xs text-muted-foreground/40">
-            Built with love using{" "}
+            #FEAR THE MYTH{" "}
             <a
               href={caffeineUrl}
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-accent transition-colors duration-200 underline underline-offset-2"
             >
-              caffeine.ai
             </a>
           </p>
         </div>
