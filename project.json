@@ -1,0 +1,23 @@
+{
+  "overview": "A premium, single-page cinematic landing website for the sports team \"Bloody Unicorns\" — dark theme, deep red accents, heavy motion design, and scroll-triggered animations to create a high-energy, intimidating sports brand feel.",
+  "features": [
+    "Cinematic full-screen hero with animated logo, taglines, and CTA buttons",
+    "Animated stat counters that trigger on scroll",
+    "Squad player card grid with hover glow and tilt effects",
+    "Dramatic Rivalry section with red accent styling",
+    "Media placeholder cards with Instagram redirect",
+    "Sponsors/Partners logo grid with placeholder branding",
+    "Minimal footer with social icons",
+    "Smooth scroll-based animations throughout all sections"
+  ],
+  "category": "showcase",
+  "tags": [
+    "sports",
+    "landing-page",
+    "motion-design",
+    "dark-theme",
+    "cinematic",
+    "animations"
+  ],
+  "last_updated": "2026-04-13T16:57:59.208Z"
+}
